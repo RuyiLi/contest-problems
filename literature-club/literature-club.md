@@ -42,4 +42,4 @@ Natsuki: ['rainbow', 'sky']
 Yuri: ['knife', 'storm', 'massacre']
 Monika: ['literature', 'write', 'pen']
 ```
-As you can see, only two trigger words can be found in your poem for both Sayori and Natsuki, and three trigger words can be found in your poem for both Yuri and Monika. This means that with Sayori and Natsuki, you will have 2 closeness points each, and with Yuri and Monika, you will have 3 closeness points each. Since 3 > 2, you know that Yuri and Monika will be the output, since they both have the highest closeness points.
+Two trigger words can be found for both Sayori and Natsuki, and three trigger words for both Yuri and Monika. This means that with Sayori and Natsuki, you will have 2 closeness points each, and with Yuri and Monika, you will have 3 closeness points each. Since 3 > 2, you know that Yuri and Monika will be the output, since they both have the highest closeness points.
