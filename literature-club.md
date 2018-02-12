@@ -4,6 +4,7 @@ Sayori, your childhood friend, has invited you to hang out with her in the Liter
 Note: If your poem contains a word that is in none of the sets, you can ignore the word.
 
 ## Input Specification
+You can assume that all input will be lowercase.
 The first line of input contains two integers N and K, representing the number of sentences and the number of words in each sentence, respectively.
 The second line of input contains an integer W representing the size of the set of "trigger words" for each club member.
 The next four lines contain the sets of "trigger words" for the four club members - Sayori, Natsuki, Yuri, and Monika - respectively.
