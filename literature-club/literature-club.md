@@ -13,7 +13,7 @@ Your poem will be made up of the next N lines, each containing K words.
 **Note:** The third to sixth lines of input will always contain trigger words in the exact order of Sayori, Natsuki, Yuri, and Monika. This is important for determining the output.
 
 ## Output Specification
-The output should consist of one line containing the name(s) of the girls with the highest closeness points.
+The output should consist of one line containing the name(s) of the girls with the highest closeness points. The order in which you print their names do not matter.
 
 **Note:** If two or more girls have the same number of closeness points, print all of their names, separated by a newline.
 
