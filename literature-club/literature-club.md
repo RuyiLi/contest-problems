@@ -3,8 +3,11 @@ Sayori, your childhood friend, has invited you to hang out with her in the Liter
 
 ## Input Specification
 You can assume that all input will be lowercase.
+
 The first line of input contains two integers N and K, (1 <= N <= 10, 1 <= K <= 10) representing the number of sentences and the number of words in each sentence, respectively.
+
 The second line of input contains an integer W (1 <= W <= 25) representing the size of the set of "trigger words" for each club member.
+
 The next four lines contain the sets of "trigger words" for the four club members - Sayori, Natsuki, Yuri, and Monika - respectively.
 Your poem will be made up of the next N lines, each containing K words.
 
@@ -42,4 +45,4 @@ Natsuki: ['rainbow', 'sky']
 Yuri: ['knife', 'storm', 'massacre']
 Monika: ['literature', 'write', 'pen']
 ```
-Two trigger words can be found for both Sayori and Natsuki, and three trigger words for both Yuri and Monika. This means that with Sayori and Natsuki, you will have 2 closeness points each, and with Yuri and Monika, you will have 3 closeness points each. Since 3 > 2, you know that Yuri and Monika will be the output, since they both have the highest closeness points.
+Two trigger words can be found for both Sayori and Natsuki, and three trigger words for both Yuri and Monika. Since 3 > 2, the output will be Yuri and Monika, since they both have the highest closeness points.
