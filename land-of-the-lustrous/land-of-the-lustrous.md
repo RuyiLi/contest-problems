@@ -10,7 +10,7 @@ The following S lines will consist of S characters, representing the map with th
 
 The `S+2`th line will consist of one integer, Q (2<=Q<=10^6), representing the amount of Bort's queries.
 
-The following Q lines will each consist of one integer, d_i (1<=d_i<=500), the maximum distance that Bort would like to travel.
+The following Q lines will each consist of one integer, d_i (1<=d_i<=S), the maximum distance that Bort would like to travel.
 
 # Output Specification
 For each query (the ith), print a single integer on a new line, representing the maximum amount of alloy that Bort can obtain by travelling by travelling d_i units.
