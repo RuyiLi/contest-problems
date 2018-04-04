@@ -5,8 +5,11 @@ After explaining everything to Bort, they examine the graph for a while. After t
 
 # Input Specification
 The first line will consist of one integer, S (1<=S<=100), representing the size of the map.
+
 The following S lines will consist of S characters, representing the map with the aforementioned symbols.
+
 The `S+2`th line will consist of one integer, Q (2<=Q<=10^6), representing the amount of Bort's queries.
+
 The following Q lines will each consist of one integer, d_i (1<=d_i<=500), the maximum distance that Bort would like to travel.
 
 # Output Specification
