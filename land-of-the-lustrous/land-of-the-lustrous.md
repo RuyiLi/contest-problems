@@ -3,6 +3,8 @@ Phosphophyllite (Phos-chan for short) has shattered yet again! Rutile, frustrate
 
 After explaining everything to Bort, they examine the graph for a while. After they are finished doing so, Bort asks you Q questions; however, your inability to do anything social renders you unable to answer their questions, so you just give Bort a piece of paper. On the paper are Q lines, with the ith line containing one integer, d_i. Bort explains that they want to be as efficient as possible, so they would like to know the maximum amount of alloy they can obtain by travelling d_i units (the way back does not count as part of the trip), **starting from the top-left corner while avoiding all Lunarians**. Since you, the amazing Graph-chan, are the best and only coder in and amongst the Gems, you figure that it is a trivial task to just write a program to answer Bort's queries.
 
+Also, since Bort wants to keep the question simple, Bort will refuse to travel on spaces that they have already visited.
+
 # Input Specification
 The first line will consist of one integer, S (1<=S<=100), representing the size of the map.
 
