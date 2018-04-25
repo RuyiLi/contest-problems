@@ -6,4 +6,4 @@ for ax, ay, az in pos:
     d = ((x-ax)**2 + (y-ay)**2 + (z-az)**2)**.5
     r = max(d, r)
 
-print('Not enough mana' if r > mr else 'Sufficient mana')
+print('LIMITED BLADE WORKS' if r > mr else 'RETREAT')
