@@ -26,7 +26,6 @@ Your sorting algorithm should print the sorted numbers in ascending order each o
 ## Sample Input For Our Sorting Algorithm
 ```
 1
-2
 3
 4
 ```
