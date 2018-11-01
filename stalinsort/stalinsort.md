@@ -28,4 +28,5 @@ Your sorting algorithm should print the sorted numbers in ascending order each o
 1
 3
 4
+4
 ```
