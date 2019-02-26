@@ -10,7 +10,7 @@ The first line of input for our sorting algorithm will be an integer, ~N (1<=N<=
 The remaining ~N~ lines of input for our sorting algorithm will contain the numbers for us to sort.
 
 ## Output Specification For Our Sorting Algorithm
-Your sorting algorithm should print the sorted numbers in ascending order each on one line, with all elements out of order eliminated.
+Our sorting algorithm should print the sorted numbers in ascending order each on one line, with all elements out of order eliminated.
 
 ## Sample Input For Our Sorting Algorithm
 ```

@@ -1,0 +1,1 @@
+https://artofproblemsolving.com/wiki/index.php/1988_AIME_Problems/Problem_15
