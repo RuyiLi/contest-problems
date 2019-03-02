@@ -5,9 +5,9 @@ Shuvi and Riku are playing a game called Double Half. In this game, Riku reads o
 ## Input Specifications
 The first line will contain a number, ~N (2<=N<=10^6)~.
 
-The following ~N~ lines will each contain the verbal representations for the numerator and denominator, respectively, of the corresponding fraction. 
+The following ~N~ lines will each contain the **verbal representations** for the numerator and denominator, respectively, of the corresponding fraction.
 
-The numerator and denominator will consist solely of lowercase alphabetic characters (a-z).
+The numerator and denominator will consist solely of lowercase alphabetic characters (a-z), **and are guaranteed to be prime**.
 
 ## Output Specifications
 A single line containing the words "Double Half" if the product is equal to 1, or "Not" if the product is not equal to 1.
@@ -28,10 +28,11 @@ Double Half
 
 ## Sample Input 2
 ```
-3
-seven nine
+4
+seven two
 five seven
-nine one
+two one
+one one
 ```
 
 ## Sample Output 2
