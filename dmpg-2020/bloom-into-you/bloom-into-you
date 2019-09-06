@@ -1,0 +1,1 @@
+basically you got a list of instructions of either grow, branch, or bloom, then for every unbloomed branch from left to right you apply the instruction (grow means grow longer, branch means split into two, bloom means end the branch) and then you gotta pretty print your flower
