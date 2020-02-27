@@ -1,5 +1,5 @@
 Haruna just got a new Googol Home and wants to use it to play her favorite songs! She will ask the device to play a multitude of songs from her playlist.
-However, since Haruna is not subscribed to YooToob Music Premium, the Home will play the song with the name that is the least similar to the one requested.
+However, since Haruna is not subscribed to S🅱otify Premium, the Home will play the song with the name that is the least similar to the one requested.
 
 The similarity between two songs, A and B, is calculated as following:
 - For each letter in A that is in B and in the correct place, subtract 1 from the "difference score".

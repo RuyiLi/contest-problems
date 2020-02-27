@@ -1,4 +1,4 @@
-check if string provided follows a pattern
+check if the string provided follows a pattern
 case matters
 can start from any character
 after lowercase z, it goes to uppercase A
