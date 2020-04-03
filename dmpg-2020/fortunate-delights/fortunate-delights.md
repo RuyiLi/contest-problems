@@ -20,10 +20,10 @@ A single integer, representing the least amount of moves she needs to make to co
 
 ## Explanation for Sample
 There are a variety of possible sequences of pieces that Hondomachi can draw in order to obtain a swift victory. Some examples include:
-0 -> 0 -> 0 -> 0 (length 4)
-9 -> 9 -> 9 -> 0 (length 4)
-9 -> 0 -> 0 -> 0 (length 4)
+- 0 -> 0 -> 0 -> 0 (length 4)
+- 9 -> 9 -> 9 -> 0 (length 4)
+- 9 -> 0 -> 0 -> 0 (length 4)
 
 Alternative but longer paths include:
-0 -> 0 -> 1 -> 1 -> 0 (length 5)
-9 -> 0 -> 9 -> 0 -> 9 -> 0 (length 6)
+- 0 -> 0 -> 1 -> 1 -> 0 (length 5)
+- 9 -> 0 -> 9 -> 0 -> 9 -> 0 (length 6)
